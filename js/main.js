@@ -1,4 +1,4 @@
-let fisrtNumber=1, secondNumber=2;
+let fisrtNumber=352, secondNumber=73;
 function suma(fisrtNumber, secondNumber){
     let result = fisrtNumber + secondNumber;
     return result;
